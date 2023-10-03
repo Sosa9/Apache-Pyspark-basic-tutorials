@@ -8,11 +8,21 @@ This repo contains of basic concepts of Apache Pyspark.
 Basic Concepts covered under this files are - 
 
 ## PART - 1
-#### - Pyspark Dataframe
-#### - Reading the dataset
-#### - Checking the datatypes (Schemas)
-#### - Selecting columns
-#### - Check describe
-#### - Adding columns
-#### - Dropping columns
-#### - Renaming columns
+- Pyspark Dataframe
+- Reading the dataset
+- Checking the datatypes (Schemas)
+- Selecting columns
+- Check describe
+- Adding columns
+- Renaming columns
+
+## PART - 2
+- Dropping rows and columns
+- Various parameter in dropping functionalities
+- Handling missing values (mean, median, mode)
+
+## PART - 3
+- Filter operations
+
+## PART - 4
+- Group by and Aggregate functions
