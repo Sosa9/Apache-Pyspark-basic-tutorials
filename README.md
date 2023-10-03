@@ -3,7 +3,7 @@ This repo contains of basic concepts of Apache Pyspark.
 
 1. Create a new environment before starting the session.
 2. Create new environment using "python -m venv myenv"
-3. Activate the virtual enivironment (source <path_location>/Scripts/activate
+3. Activate the virtual environment (source <path_location>/Scripts/activate)
 
 Basic Concepts covered under this files are - 
 
